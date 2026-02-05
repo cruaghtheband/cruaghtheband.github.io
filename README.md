@@ -1,2 +1,1 @@
-# cruaghtheband.github.io
-Homepage for Cruagh
+Homepage for Cruagh - under construction
